@@ -102,8 +102,8 @@ service nginx restart
 
 apt-get -y install zip unzip
 cd /home/vps/public_html
-#wget https://github.com/dheluxe/AutoScriptDebianStretch/raw/master/Files/Panel/Panel.zip
-wget https://raw.githubusercontent.com/Clrkz/VPSAutoScrptz/master/Panel.zip
+wget https://github.com/dheluxe/AutoScriptDebianStretch/raw/master/Files/Panel/jerz.zip
+#wget https://raw.githubusercontent.com/Clrkz/VPSAutoScrptz/master/Panel.zip
 unzip Panel.zip
 rm -f Panel.zip
 chown -R www-data:www-data /home/vps/public_html
