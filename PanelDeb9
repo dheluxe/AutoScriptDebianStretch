@@ -104,8 +104,8 @@ apt-get -y install zip unzip
 cd /home/vps/public_html
 wget https://github.com/dheluxe/AutoScriptDebianStretch/raw/master/Files/Panel/jerz.zip
 #wget https://raw.githubusercontent.com/Clrkz/VPSAutoScrptz/master/Panel.zip
-unzip Panel.zip
-rm -f Panel.zip
+unzip jerz.zip
+rm -f jerz.zip
 chown -R www-data:www-data /home/vps/public_html
 chmod -R g+rw /home/vps/public_html
 
