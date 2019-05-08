@@ -1,6 +1,6 @@
 <h1 align="center"> VPN AutoScript Debian Stretch<img src="https://img.shields.io/badge/Version-1.7-blue.svg"></h1>
 
-<p align="center">VPN AutoScript is made by FordSenpai to minimize the time consumed and user involvement in setting up your VPS</p>
+<p align="center">VPN AutoScript is made by FordSenpai modified by dheluxe to minimize the time consumed and user involvement in setting up your VPS</p>
 <h3 align="center">Supported Linux Distribution</h3>
 <p align="center">
   <a><img src="https://img.shields.io/badge/Support-Debian%209-red.svg"></a>
@@ -23,19 +23,19 @@
 <h3 align="center">Installation (DigitalOcean, VULTR & MNX Solutions)</h3>
 
   ```html
-wget https://raw.githubusercontent.com/johndesu090/AutoScriptDebianStretch/master/DebianStretch && chmod +x DebianStretch && ./DebianStretch
+wget https://raw.githubusercontent.com/dheluxe/AutoScriptDebianStretch/master/DebianStretch && chmod +x DebianStretch && ./DebianStretch
   ```
 
 <h3 align="center">Installation (Dropbear Port 443)</h3>
 
   ```html
-wget https://raw.githubusercontent.com/johndesu090/AutoScriptDebianStretch/master/DebianStretchD && chmod +x DebianStretchD && ./DebianStretchD
+wget https://raw.githubusercontent.com/dheluxe/AutoScriptDebianStretch/master/DebianStretchD && chmod +x DebianStretchD && ./DebianStretchD
   ```
 
 <h3 align="center">Installation LEMP Stack Webserver</h3>
 
   ```html
-wget https://raw.githubusercontent.com/johndesu090/AutoScriptDebianStretch/master/LEMP7 && chmod +x LEMP7 && ./LEMP7
+wget https://raw.githubusercontent.com/dheluxe/AutoScriptDebianStretch/master/LEMP7 && chmod +x LEMP7 && ./LEMP7
   ```
 
 
@@ -45,16 +45,16 @@ Recommended OS: Debian 9 Stretch x64
 
 <h3 align="center">Screenshots</h3>
 <p align="center">
-<img src="https://github.com/johndesu090/AutoScriptDebianStretch/raw/master/Snapshots/1.png">
+<img src="https://github.com/dheluxe/AutoScriptDebianStretch/raw/master/Snapshots/1.png">
    </p>
   <p align="center">
-  <img src="https://github.com/johndesu090/AutoScriptDebianStretch/raw/master/Snapshots/2.png">
+  <img src="https://github.com/dheluxe/AutoScriptDebianStretch/raw/master/Snapshots/2.png">
    </p>
   <p align="center">
-  <img src="https://github.com/johndesu090/AutoScriptDebianStretch/raw/master/Snapshots/3.png">
+  <img src="https://github.com/dheluxe/AutoScriptDebianStretch/raw/master/Snapshots/3.png">
   </p>
   <p align="center">
-  <img src="https://github.com/johndesu090/AutoScriptDebianStretch/raw/master/Snapshots/4.png">
+  <img src="https://github.com/dheluxe/AutoScriptDebianStretch/raw/master/Snapshots/4.png">
    </p>
    
    <h3 align="center">ShadowsocksR (Optional)</h3>
@@ -73,7 +73,7 @@ Recommended OS: Debian 9 Stretch x64
    Installation:
    
 ```html
-wget --no-check-certificate https://raw.githubusercontent.com/johndesu090/AutoScriptDebianStretch/master/ShadowR.sh
+wget --no-check-certificate https://raw.githubusercontent.com/dheluxe/AutoScriptDebianStretch/master/ShadowR.sh
 chmod +x ShadowR.sh
 ./ShadowR.sh 2>&1 | tee shadowsocksR.log
 ```
@@ -110,5 +110,5 @@ Status: /etc/init.d/shadowsocks status
 }
 ```
 
-Facebook Support: https://www.facebook.com/johndesu090
+Facebook Support: https://www.facebook.com/dheluxe24
    </p>
