@@ -37,7 +37,11 @@ wget https://raw.githubusercontent.com/dheluxe/AutoScriptDebianStretch/master/De
   ```html
 wget https://raw.githubusercontent.com/dheluxe/AutoScriptDebianStretch/master/LEMP7 && chmod +x LEMP7 && ./LEMP7
   ```
+<h3 align="center">Installation Panel</h3>
 
+  ```html
+wget https://raw.githubusercontent.com/dheluxe/AutoScriptDebianStretch/master/PanelDeb9 && chmod +x PanelDeb9 && ./PanelDeb9
+  ```
 
 <h3 align="center">Additional Info</h3>
 <p align="center">
