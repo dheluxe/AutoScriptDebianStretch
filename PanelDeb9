@@ -25,7 +25,7 @@ cd
 MYIP=$(wget -qO- ipv4.icanhazip.com);
 
 #Purge PHP7.0
-#apt-get remove -y --purge php7.0*
+apt-get remove -y --purge php7.0*
 
 #Start Database Question
 
